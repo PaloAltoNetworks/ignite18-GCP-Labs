@@ -4,7 +4,7 @@ Part 1: Two Tier deployment illustrating North/South East/West inspection within
 
 Part 2: Load Balancer Sandwich and X-Forward For logging
 
-Please see Lab Guide-
+Please see Lab Guide- IGNITE18-US-HOW-11-GCP-Workshop-Guide-github-ver20180606.pdf
 
 Requirements
   - bootstrap buckets- two vm-series bootstrap buckets are required to complete these labs.  
