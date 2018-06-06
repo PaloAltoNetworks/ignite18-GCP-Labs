@@ -15,6 +15,7 @@ Requirements
      - bucket name for Web and DB servers startup scripts
      
 Note: Licenses Bundle set for VM-Series VM-300 PAYGO bundle2.  This line can be modifies to one of the following if desired.
+
  https://www.googleapis.com/compute/v1/projects/paloaltonetworksgcp-public/global/images/vmseries-byol-810
  https://www.googleapis.com/compute/v1/projects/paloaltonetworksgcp-public/global/images/vmseries-bundle2-810
  https://www.googleapis.com/compute/v1/projects/paloaltonetworksgcp-public/global/images/vmseries-bundle1-810
